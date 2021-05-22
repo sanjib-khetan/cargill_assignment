@@ -1,0 +1,21 @@
+Readme for the Project:
+
+Instruction to Run the code:
+1) Create the item class object for each item we have provided or considered for purchasing.
+2) Add all the item object inside a list and pass it as an argument for the creation of Checkout class object. (As we have done in main.py)
+3) Run main.py
+4) It will print the total cost.
+
+
+About the Project:
+
+there are multiple files:
+
+main.py: Main file to run the code.
+abstract.py: Here we have the abstract class for the available types of items like Sony TV, Nike Shoes etc, where we have defined the abstract property and method.
+Sony_TV.py: Class to define the Sony TV features such as, price, item_id , item_name and price rule for this item.
+Nike_shoe:  Class to define the Nike Shoes features such as, price, item_id , item_name and price rule for this item.
+Central_AC:  Class to define the Central AC features such as, price, item_id , item_name and price rule for this item.
+Charger:  Class to define the Charger features such as, price, item_id , item_name and price rule for this item.
+
+We have the price_rules for each product in the respective classes.
